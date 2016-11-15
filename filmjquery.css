@@ -1,0 +1,35 @@
+.filmrad {
+    max-width: 100%;
+    height: auto;
+}
+
+.filmruta {
+    width: 200px;
+    text-align: center;
+    float: left;
+
+}
+
+.filmruta img{
+    width: 200px;
+    height: 300px;
+
+}
+
+.filmruta p{
+    float: left;
+    
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boka{
+    margin-left: 42px;
+}
+
+.ledigap{
+    margin-left: 42px;
+}
